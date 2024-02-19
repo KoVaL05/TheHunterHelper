@@ -1,0 +1,374 @@
+[
+  {
+    "name": "Canada Goose",
+    "class": 1
+  },
+  {
+    "name": "Cinnamon Teal",
+    "class": 1
+  },
+  {
+    "name": "Eurasian Teal",
+    "class": 1
+  },
+  {
+    "name": "Eurasian Wigeon",
+    "class": 1
+  },
+  {
+    "name": "Goldeneye",
+    "class": 1
+  },
+  {
+    "name": "Green Winged Teal",
+    "class": 1
+  },
+  {
+    "name": "Greylag Goose",
+    "class": 1
+  },
+  {
+    "name": "Harlequin Duck",
+    "class": 1
+  },
+  {
+    "name": "Magpie Goose",
+    "class": 1
+  },
+  {
+    "name": "Mallard",
+    "class": 1
+  },
+  {
+    "name": "Tufted Duck",
+    "class": 1
+  },
+  {
+    "name": "Tundra Bean Goose",
+    "class": 1
+  },
+  {
+    "name": "Black Grouse",
+    "class": 1
+  },
+  {
+    "name": "Bobwhite Quail",
+    "class": 1
+  },
+  {
+    "name": "Eastern Wild Turkey",
+    "class": 1
+  },
+  {
+    "name": "Hazel Grouse",
+    "class": 1
+  },
+  {
+    "name": "Merriam's Turkey",
+    "class": 1
+  },
+  {
+    "name": "Ring-Necked Pheasant",
+    "class": 1
+  },
+  {
+    "name": "Rio Grande Turkey",
+    "class": 1
+  },
+  {
+    "name": "Rock Ptarmigan",
+    "class": 1
+  },
+  {
+    "name": "Stubble Quail",
+    "class": 1
+  },
+  {
+    "name": "Western Capercaillie",
+    "class": 1
+  },
+  {
+    "name": "Willow Ptarmigan",
+    "class": 1
+  },
+  {
+    "name": "Antelope Jackrabbit",
+    "class": 1
+  },
+  {
+    "name": "Eastern Cottontail Rabbit",
+    "class": 1
+  },
+  {
+    "name": "European Hare",
+    "class": 1
+  },
+  {
+    "name": "European Rabbit",
+    "class": 1
+  },
+  {
+    "name": "Mountain Hare",
+    "class": 1
+  },
+  {
+    "name": "Scrub Hare",
+    "class": 1
+  },
+  {
+    "name": "White-tailed Jackrabbit",
+    "class": 1
+  },
+  {
+    "name": "Eastern Gray Kangaroo",
+    "class": 1
+  },
+  {
+    "name": "Siberian Musk Deer",
+    "class": 2
+  },
+  {
+    "name": "Common Raccoon",
+    "class": 2
+  },
+  {
+    "name": "Coyote",
+    "class": 2
+  },
+  {
+    "name": "Gray Fox",
+    "class": 2
+  },
+  {
+    "name": "Raccoon Dog",
+    "class": 2
+  },
+  {
+    "name": "Red Fox",
+    "class": 2
+  },
+  {
+    "name": "Side-striped Jackal",
+    "class": 2
+  },
+  {
+    "name": "Axis Deer",
+    "class": 3
+  },
+  {
+    "name": "Blackbuck",
+    "class": 3
+  },
+  {
+    "name": "Chamois",
+    "class": 3
+  },
+  {
+    "name": "Feral Goat",
+    "class": 3
+  },
+  {
+    "name": "Hog Deer",
+    "class": 3
+  },
+  {
+    "name": "Roe Deer",
+    "class": 3
+  },
+  {
+    "name": "Springbok",
+    "class": 3
+  },
+  {
+    "name": "Bobcat",
+    "class": 3
+  },
+  {
+    "name": "Mexican Bobcat",
+    "class": 3
+  },
+  {
+    "name": "Eurasian Lynx",
+    "class": 3
+  },
+  {
+    "name": "Beceite Ibex",
+    "class": 4
+  },
+  {
+    "name": "Bighorn Sheep",
+    "class": 4
+  },
+  {
+    "name": "Blacktail Deer",
+    "class": 4
+  },
+  {
+    "name": "Fallow Deer",
+    "class": 4
+  },
+  {
+    "name": "Gredos Ibex",
+    "class": 4
+  },
+  {
+    "name": "Iberian Mouflon",
+    "class": 4
+  },
+  {
+    "name": "Lesser Kudu",
+    "class": 4
+  },
+  {
+    "name": "Mountain Goat",
+    "class": 4
+  },
+  {
+    "name": "Pronghorn",
+    "class": 4
+  },
+  {
+    "name": "Ronda Ibex",
+    "class": 4
+  },
+  {
+    "name": "Sika Deer",
+    "class": 4
+  },
+  {
+    "name": "Southeastern Spanish Ibex",
+    "class": 4
+  },
+  {
+    "name": "Whitetail Deer",
+    "class": 4
+  },
+  {
+    "name": "Collared Peccary",
+    "class": 4
+  },
+  {
+    "name": "Feral Pig",
+    "class": 4
+  },
+  {
+    "name": "Warthog",
+    "class": 4
+  },
+  {
+    "name": "Wild Boar",
+    "class": 4
+  },
+  {
+    "name": "Wild Hog",
+    "class": 4
+  },
+  {
+    "name": "Eastern Gray Kangaroo",
+    "class": 1
+  },
+  {
+    "name": "Gray Wolf",
+    "class": 5
+  },
+  {
+    "name": "Iberian Wolf",
+    "class": 5
+  },
+  {
+    "name": "Mountain Lion",
+    "class": 5
+  },
+  {
+    "name": "Puma",
+    "class": 5
+  },
+  {
+    "name": "Blue Wildebeest",
+    "class": 6
+  },
+  {
+    "name": "Caribou",
+    "class": 6
+  },
+  {
+    "name": "Javan Rusa",
+    "class": 6
+  },
+  {
+    "name": "Mule Deer",
+    "class": 6
+  },
+  {
+    "name": "Red Deer",
+    "class": 6
+  },
+  {
+    "name": "Reindeer",
+    "class": 6
+  },
+  {
+    "name": "Sambar Deer",
+    "class": 6
+  },
+  {
+    "name": "American Alligator",
+    "class": 6
+  },
+  {
+    "name": "Black Bear",
+    "class": 7
+  },
+  {
+    "name": "Eurasian Brown Bear",
+    "class": 7
+  },
+  {
+    "name": "Grizzly Bear",
+    "class": 7
+  },
+  {
+    "name": "Saltwater Crocodile",
+    "class": 7
+  },
+  {
+    "name": "Gemsbok",
+    "class": 8
+  },
+  {
+    "name": "Moose",
+    "class": 8
+  },
+  {
+    "name": "Rocky Mountain Elk",
+    "class": 8
+  },
+  {
+    "name": "Roosevelt Elk",
+    "class": 8
+  },
+  {
+    "name": "Banteng",
+    "class": 9
+  },
+  {
+    "name": "Cape Buffalo",
+    "class": 9
+  },
+  {
+    "name": "European Bison",
+    "class": 9
+  },
+  {
+    "name": "Plains Bison",
+    "class": 9
+  },
+  {
+    "name": "Water Buffalo",
+    "class": 9
+  },
+  {
+    "name": "Lion",
+    "class": 9
+  }
+]

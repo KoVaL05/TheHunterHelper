@@ -1,0 +1,14 @@
+{
+  "name": "thehunterhelper",
+  "version": "1.0.0",
+  "description": "TheHunterHelper",
+  "main": "main.js",
+  "author": "KoVaL",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^28.2.3"
+  },
+  "scripts": {
+    "start": "electron ."
+  }
+}

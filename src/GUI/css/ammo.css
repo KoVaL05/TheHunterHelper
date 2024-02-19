@@ -1,0 +1,52 @@
+body {
+    margin: 0px;
+    background-color: #333333;
+}
+
+#ammunition-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    margin: 5px auto;
+    max-width: 1200px;
+    gap: 10px;
+}
+
+.ammunition {
+    flex: 1;
+    box-sizing: border-box;
+    border: 2px solid black;
+    border-radius: 15px;
+    max-width: 300px;
+    min-width: 200px;
+    font-family: 'manolo mono';
+    color: #eca233;
+}
+
+.ammunition img {
+    max-width: 100%;
+    height: auto;
+}
+
+.info {
+    text-align: center;
+}
+
+.info-text {
+    border-top: 2px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.label {
+    border-right: 2px solid black;
+    width: 35%;
+    text-align: right;
+}
+
+.json {
+    width: 55%;
+    text-align: center;
+    padding-left: 10px;
+}
