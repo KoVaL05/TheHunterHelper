@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function() {
+document.addEventListener("DOMContentLoaded", function(){
     function generateDivs(animalData){
         var animals = document.getElementById('animals');
 
@@ -10,6 +10,8 @@ document.addEventListener("DOMContentLoaded", function() {
             infoElement.className = 'animal-info'
 
             var img = document.createElement('img');
+            var imgName = data.name.replaceAll(/[\s, ']/g, '');
+            img.src = `../GUI/img/animals/${imgName}Icon.webp`;
 
             var dataInfoname = document.createElement('div');
             dataInfoname.className = 'data-info';
@@ -18,6 +20,7 @@ document.addEventListener("DOMContentLoaded", function() {
             labelname.className = 'label'
             var name = document.createElement('div');
             name.textContent = data.name;
+            name.className = 'data'
             dataInfoname.appendChild(labelname);
             dataInfoname.appendChild(name);
             var dataInfoclass = document.createElement('div');
@@ -27,11 +30,13 @@ document.addEventListener("DOMContentLoaded", function() {
             labelclass.className = 'label'
             var animal_class = document.createElement('div');
             animal_class.textContent = data.class;
+            animal_class.className = 'data class'
             dataInfoclass.appendChild(labelclass);
             dataInfoclass.appendChild(animal_class);
             
             infoElement.appendChild(dataInfoname);
             infoElement.appendChild(dataInfoclass);
+            animal.appendChild(img);
             animal.appendChild(infoElement);
             animals.appendChild(animal);
         });

@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function() {
+document.addEventListener("DOMContentLoaded", function(){
     function generateDivs(weaponsData) {
         var weapons = document.getElementById("weapons");
 
@@ -87,6 +87,8 @@ document.addEventListener("DOMContentLoaded", function() {
         });
         return elem;
     }
+
+    bweapons.style.background = '#ff9900';
 
     fetch('../json/weapons.json')
         .then(response => response.json())

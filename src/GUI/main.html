@@ -21,9 +21,10 @@
     <!-- <div class="maps">
         <div class="map">Mapa</div>
     </div> -->
+    <script src="../scripts/change.js"></script>
     <div class="animals-weapons">
-        <button>Animals</button>
-        <button>Weapons</button>
+        <button id="bweapons" onclick="display('weapons')">Weapons</button>
+        <button id="banimals" onclick="display('animals')">Animals</button>
     </div>
     <div id="weapons">
         <!-- Made by script -->
@@ -33,6 +34,17 @@
     </div>
     <script src="../scripts/info.js"></script>
     <script src="../scripts/animals.js"></script>
-    <script src="../scripts/colornumber.js"></script>
+    <script src="../scripts/colornumber.js" type="module"></script>
 </body>
+<script>
+    const module = {}
+    function show(data){
+        display(data);
+        module.restart();
+    };
+</script>
+<script type="module">
+    import {restart} from './scripts/colornumber.js';
+    module.restart = restart()
+</script>
 </html>

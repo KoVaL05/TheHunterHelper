@@ -112,7 +112,8 @@ h1 {
 }
 
 #animals {
-    display: grid;
+    /* display: grid; */
+    display: none;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
     gap: 20px;
     margin-top: 10px;
@@ -128,6 +129,11 @@ h1 {
     align-items: center;
 }
 
+#animals .animal .animal-info {
+    padding: 0;
+    width: 100%;
+}
+
 #animals .animal .animal-info .data-info {
     border-top: 1px solid white;
     text-align: center;
@@ -135,10 +141,14 @@ h1 {
     display: flex;
     margin: 0;
     padding: 0;
+    width: 100%;
 }
 
 #animals .animal .animal-info .data-info .label {
     border-right: 1px solid white;
     width: 30%;
-    color: whites;
+}
+
+#animals .animal .animal-info .data-info .data {
+    width: 70%;
 }

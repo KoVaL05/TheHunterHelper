@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function() {
+document.addEventListener("DOMContentLoaded", function(){
     function generateDivs(ammoData) {
         var container = document.getElementById("ammunition-container");
 
